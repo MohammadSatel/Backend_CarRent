@@ -8,4 +8,6 @@
 ## py manage.py runserver
 ## backend server live at http://127.0.0.1:8000/
 
-#test
+## docker
+## docker run -p 8080:8080 username/myproject
+## docker run -p 8080:8080 myproject
